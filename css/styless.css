@@ -1,0 +1,44 @@
+#intro{ background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-fitness-exercise-run-banner-background-image_255468.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+body{ background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-fitness-exercise-run-banner-background-image_255468.jpg'); 
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    height: 100vh;
+    width: 100vw;
+}
+
+@media (min-width: 992px) {
+    #intro {
+      margin-top: -58.59px;
+    }
+  }
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+ 
+.sobre-nos{
+    color:#F73F60;
+
+}
+
+.titulo-saude{
+    font-family: Helvetica;
+    }
+#bg-paragrafo{
+    background-color:  #fff;
+    border-radius: 10px;
+}
+
+
+#imagem{
+    border-radius: 10px;
+}
